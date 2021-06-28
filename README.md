@@ -1,5 +1,7 @@
 ## Simply Wall St Project
 
+![cap](https://user-images.githubusercontent.com/21023328/123637095-f4c5dd00-d860-11eb-950c-7aa26ba3ba91.gif)
+
 ## To Run
 Open the solution (.sln) file in Rider/Visual studio. Run the `SimplyWallStCompanies` _project_. It should pull all node modules, and run the front & back end for you.
 The port it runs on is defined in Properties/launchSettings.json -> applicationUrl.
