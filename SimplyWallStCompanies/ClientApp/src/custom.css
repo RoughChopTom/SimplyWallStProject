@@ -1,0 +1,49 @@
+a {
+    color: #0366d6;
+}
+
+code {
+    color: #E01A76;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.table {
+    margin-bottom: 50px;
+}
+
+thead button {
+    border: 0;
+    border-radius: 0;
+    font-family: inherit;
+    font-weight: 700;
+    font-size: inherit;
+    padding: 0.5em;
+    margin-bottom: 1px;
+}
+
+thead button.ascending::after {
+    content: '🔻';
+    display: inline-block;
+    margin-left: 1em;
+}
+
+thead button.descending::after {
+    content: '🔺';
+    display: inline-block;
+    margin-left: 1em;
+}
+
+.filter__container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 600px;
+}
+
+.currency {
+    text-align: right;
+}

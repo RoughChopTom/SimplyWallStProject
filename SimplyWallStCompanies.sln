@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplyWallStCompanies", "SimplyWallStCompanies\SimplyWallStCompanies.csproj", "{CBF42EDB-B27E-4CC3-8F8B-2E91C5687780}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplyWallStCompanies.Test", "SimplyWallStCompanies.Test\SimplyWallStCompanies.Test.csproj", "{EC2D1BB2-C929-4C70-9524-E8238A655378}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBF42EDB-B27E-4CC3-8F8B-2E91C5687780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF42EDB-B27E-4CC3-8F8B-2E91C5687780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF42EDB-B27E-4CC3-8F8B-2E91C5687780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF42EDB-B27E-4CC3-8F8B-2E91C5687780}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC2D1BB2-C929-4C70-9524-E8238A655378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2D1BB2-C929-4C70-9524-E8238A655378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2D1BB2-C929-4C70-9524-E8238A655378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2D1BB2-C929-4C70-9524-E8238A655378}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
